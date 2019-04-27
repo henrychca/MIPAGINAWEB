@@ -1,0 +1,60 @@
+.navbar  {
+	margin-bottom:0;
+background:#F0B429;
+text-decoration:#fff;
+}
+
+.nav  {
+	margin-bottom:0;
+background:#F0B429;
+}
+ 
+ 
+.jumbotron {
+	background:#005883;
+	color:#F0B429;
+	padding:20px 0px;
+}
+
+.jumbotron .titulo-index {
+	font-size: 80px;
+	text-align: center;
+}
+
+.jumbotron .titulo-abajoindex {
+	font-size: 20px;
+	text-align:center;
+}
+.dropdown-menu {
+	background-color:#F0B429;
+}
+
+.nav {
+background-color:#F0B429;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #005883;
+}
+
+body {
+
+	font-family: helvetica;
+}
+
+.dropwon {
+	background-color: #
+}
+
+.post .thumb img {
+	width: 100%;
+}
+
+.textoindex {
+	font-size: 30px;
+	color:#005883;
+}
