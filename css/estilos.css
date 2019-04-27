@@ -58,3 +58,25 @@ body {
 	font-size: 30px;
 	color:#005883;
 }
+
+.barralateral .titulocontador {
+	background-color: #F47920;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+.barralateral {
+	text-align: center;
+}
+
+.textoindex {
+	text-align: center;
+}
+
+.twitter-css .titulotwitter {
+	background-color: #F47920;
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+}
