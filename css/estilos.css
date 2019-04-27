@@ -128,6 +128,14 @@ div.videosgit {
 	width: 100%;
 }
 
+.fotito .video object{
+	width: 100%;
+}
+
+.actividadmac .fotoactividad img{
+	width: 100%;
+}
+
 
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
