@@ -46,9 +46,6 @@ body {
 	font-family: helvetica;
 }
 
-.dropwon {
-	background-color: #
-}
 
 .post .thumb img {
 	width: 100%;
@@ -130,3 +127,16 @@ div.videosgit {
 .fotito img{
 	width: 100%;
 }
+
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #005883;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: ##005883;
+}
+
