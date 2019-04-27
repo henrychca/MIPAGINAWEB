@@ -77,6 +77,24 @@ body {
 .twitter-css .titulotwitter {
 	background-color: #F47920;
 	font-size: 20px;
-	color: #000;
+	color: #fff;
+	text-align: center;
+}
+
+.autorcss .textoautor {
+	background-color: #F47920;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+
+}
+
+
+
+img.fotografia {
+  width: 100px; height: 100px;
+}
+
+div.videosgit {
 	text-align: center;
 }
