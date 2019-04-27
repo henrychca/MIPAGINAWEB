@@ -50,8 +50,14 @@ body {
 	background-color: #
 }
 
-.post .thumb img {
+.post .thumb img p{
 	width: 100%;
+
+}
+
+.lectura1 .fotolectura img {
+	width: 100%;
+
 }
 
 .textoindex {
@@ -97,4 +103,21 @@ img.fotografia {
 
 div.videosgit {
 	text-align: center;
+}
+
+ .fotoactividad{
+	
+	display:block;
+    }
+
+.autorcss .fotografia img {
+	width: 100%;
+}
+
+.articuloact1 .fotoactividad img {
+	width: 100%;
+}
+
+.videosgit .video object {
+	width: 100%;
 }
