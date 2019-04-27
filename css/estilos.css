@@ -50,7 +50,12 @@ body {
 	background-color: #
 }
 
-.post .thumb img p{
+.post .thumb img {
+	width: 100%;
+
+}
+
+.post .thumb object{
 	width: 100%;
 
 }
@@ -119,5 +124,9 @@ div.videosgit {
 }
 
 .videosgit .video object {
+	width: 100%;
+}
+
+.fotito img{
 	width: 100%;
 }
