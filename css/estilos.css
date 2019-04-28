@@ -148,3 +148,9 @@ div.videosgit {
     background-color: ##005883;
 }
 
+.lateral .lat div{
+	background-color: #F47920;
+	margin-right: 5px;
+	width: 200px;
+	right: 150px;
+}
